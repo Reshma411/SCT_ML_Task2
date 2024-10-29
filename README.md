@@ -34,16 +34,4 @@ Matplotlib and Seaborn: Data visualization.
 Conclusion:
 This project showcases the power of clustering techniques to understand customer behavior and optimize marketing strategies. By identifying distinct customer segments, mall management can make data-driven decisions to enhance customer experience and profitability.
 
-This structure provides a clear overview, objectives, methodology, and guidance for running the project, ideal for a README file. Let me know if you'd like any specific customizations!
-
-
-
-
-
-
-
-
-
-
-
-ChatGPT can make mistakes. Che
+This structure provides a clear overview, objectives, methodology, and guidance for running the project, ideal for a README file. Let me know if you'd like any specific customization
