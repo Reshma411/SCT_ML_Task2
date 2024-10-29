@@ -13,6 +13,7 @@ Dataset:
 The dataset used in this project contains information on mall customers, including attributes such as:
 Customer ID: Unique identifier for each customer.
 Age: Age of the customer.
+Gender: Gender of the customer.
 Annual Income: Estimated annual income of the customer.
 Spending Score: A score assigned by the mall, indicating the customer’s spending behavior and loyalty.
 
